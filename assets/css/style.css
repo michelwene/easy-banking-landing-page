@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;700&display=swap");
+
+:root {
+  --verde: hsl(136, 65%, 51%);
+  --ciano: hsl(192, 70%, 51%);
+  --azul-escuro: hsl(233, 26%, 24%);
+  --cinza-escuro: hsl(233, 8%, 62%);
+  --cinza-claro: hsl(220, 16%, 96%);
+  --cinza-muito-claro: hsl(0, 0%, 98%);
+  --branco: hsl(0, 0%, 100%);
+}
+
+html {
+  font-family: "Public Sans", sans-serif;
+  font-size: 65%;
+}
+
+.app{
+  max-width: 1440px;
+}

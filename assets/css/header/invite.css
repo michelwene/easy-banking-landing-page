@@ -1,0 +1,9 @@
+.invite__button {
+  background: linear-gradient(90deg, var(--verde), var(--ciano));
+  border: 0 none;
+  border-radius: 30px;
+  color: var(--branco);
+  font-size: 1.3rem;
+  height: 50px;
+  width: 150px;
+}

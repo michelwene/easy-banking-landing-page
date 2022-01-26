@@ -1,0 +1,9 @@
+.nav__list {
+  display: flex;
+  column-gap: 2.5rem;
+}
+
+.nav__item {
+  color: var(--cinza-escuro);
+  font-size: 1.5rem;
+}
