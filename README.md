@@ -6,3 +6,4 @@ Esta é uma solução para o [Easybank landing page challenge on Frontend Mentor
 ## Projeto em desenvolvimento!
 
 - A ideia deste projeto é criar uma landing page baseada no design proposto pelo frontend mentor.
+- Branch de desenvolvimento!
