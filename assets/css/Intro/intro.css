@@ -1,17 +1,6 @@
-.intro{
-    align-items: center;
-    background-color: var(--cinza-muito-claro);
-    display: flex;
-    height: 64.5rem;
-}
-
-.intro__image{
-    height: 100%;
-    width: auto;
-}
-
-.mockups{
-    background: url(../../images/image-mockups.png) right top / cover no-repeat;
-    height: 500px;
-    width: 500px;
+.intro {
+  align-items: center;
+  background-color: var(--cinza-muito-claro);
+  display: flex;
+  height: 64.5rem;
 }
