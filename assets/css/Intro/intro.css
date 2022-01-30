@@ -3,4 +3,30 @@
   background-color: var(--cinza-muito-claro);
   display: flex;
   height: 64.5rem;
+  width: 100%;
+}
+
+.intro__description {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  margin-left: 16rem;
+  width: 45%;
+  justify-content: center;
+  row-gap: 3rem;
+}
+
+.intro__title{
+  font-size: 5.5rem;
+}
+
+.intro__info{
+  color: var(--cinza-escuro);
+  font-size: 1.8rem;
+  line-height: 1.5;
+  padding-right: 13rem;
+}
+
+.intro__image{
+  width: 50%;
 }
